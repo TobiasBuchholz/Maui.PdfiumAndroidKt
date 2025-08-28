@@ -11,17 +11,17 @@
     <IsTrimmable>true</IsTrimmable>
 
     <!-- nuget package info -->
-    <PackageId>Maui.PdfiumAndroidKt</PackageId>
+    <PackageId>PdfiumAndroidKt.Maui</PackageId>
     <PackageVersion>1.0.33</PackageVersion>
 
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/TobiasBuchholz/Maui.PdfiumAndroidKt</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/TobiasBuchholz/Maui.PdfiumAndroidKt</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/TobiasBuchholz/PdfiumAndroidKt.Maui</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TobiasBuchholz/PdfiumAndroidKt.Maui</RepositoryUrl>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>maui, android, pdf</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 
-    <Title>Maui.PdfiumAndroidKt</Title>
+    <Title>PdfiumAndroidKt.Maui</Title>
     <Summary>A Maui.Android binding for a Pdfium Android library using the latest stable version Pdfium. With this library, you will be able to read, write, update PDF files as well as convert pages to images.</Summary>
     <Description>A Maui.Android binding for a Pdfium Android library using the latest stable version Pdfium. With this library, you will be able to read, write, update PDF files as well as convert pages to images.</Description>
 
